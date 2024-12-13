@@ -1,0 +1,72 @@
+[
+  {
+    "imageUrl": "https://cdn.yummy.co.id/content-images/images/20220712/Wk3tGAcXBpHY2BhxwxQGfZOtDoM8lEtU-31363537363130353733d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_388,h_388,m_fixed,x-oss-process=image/format,webp",
+    "nameFood": "Gulai Kambing",
+    "deskrip": "Gulai yang dimasak selama 6 jam dengan daging pilihan",
+    "price": 50000,
+    "rate": 5
+  },
+  {
+    "imageUrl": "https://cdn.yummy.co.id/content-images/images/20231027/iX1AD85Q8EMvLTPLFZOSOu1dRQsRi5qE-31363938333931363035d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_388,h_388,m_fixed,x-oss-process=image/format,webp",
+    "nameFood": "Gulai Ikan Kakap",
+    "deskrip": "Kepala kakap fresh, dimasak dengan bumbu kuah santan pedas dan aroma kemangi yang semakin nikmat",
+    "price": 52000,
+    "rate": 5
+  },
+  {
+    "imageUrl": "https://cdn.yummy.co.id/content-images/images/20230719/fD61jrYFnTdUtPs6DF8pjQSLCC3aw7sZ-31363839373430373430d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_388,h_388,m_fixed,x-oss-process=image/format,webp",
+    "nameFood": "Soto Ayam",
+    "deskrip": "Soto ayam dengan kuah menyegarkan ala masakan favorit keluarga ",
+    "price": 10000,
+    "rate": 5
+  },
+  {
+    "imageUrl": "https://cdn.yummy.co.id/content-images/images/20221104/u5qnvbkZFFuy5KXmY0ZPvldM9e4sfgVm-31363637353436333833d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_388,h_388,m_fixed,x-oss-process=image/format,webp",
+    "nameFood": "Seblak",
+    "deskrip": "Seblak original dengan aneka toping kerupuk, seafood, ceker, daging ayam, dan sayur sayuran",
+    "price": 22000,
+    "rate": 5
+  },
+  {
+    "imageUrl": "https://cdn.yummy.co.id/content-images/images/20230210/SDjgUVZqfqjirteINyMRV5RyQRvGLKQk-31363735393932393637d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_388,h_388,m_fixed,x-oss-process=image/format,webp",
+    "nameFood": "Teh Manis",
+    "deskrip": "teh manis dengan gula kong yang manis menyegarkan dan memberikan sensasi dingin yang menyejukan",
+    "price": 5000,
+    "rate": 5
+  },
+  {
+    "imageUrl": "https://cdn.yummy.co.id/content-images/images/20240502/TYPxCUJWxq5yizWdMSgLXDjnPM8nFIn9-31373134363335353037d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_388,h_388,m_fixed,x-oss-process=image/format,webp",
+    "nameFood": "Mie kuah telur",
+    "deskrip": "Mie gorang dengan toping sosis, telur dan sayuran special",
+    "price": 8000,
+    "rate": 4
+  },
+  {
+    "imageUrl": "https://cdn.yummy.co.id/content-images/images/20210410/J0QWaHuRYK5GleA3H7oJJzxV22kFrt5I-31363138303534383431d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_388,h_388,m_fixed,x-oss-process=image/format,webp",
+    "nameFood": "Rendang special",
+    "deskrip": "Daging yang dimasak dengan bumbu santan rendang special dan rempah pilihan selama 8 jam ",
+    "price": 2000,
+    "rate": 5
+  },
+  {
+    "imageUrl": "https://cdn.yummy.co.id/content-images/images/20220725/hn6WpFOVU2FKTx0nc2n8Wzh0ggqYSDr1-31363538373232393637d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_388,h_388,m_fixed,x-oss-process=image/format,webp",
+    "nameFood": "Bakso pangsit",
+    "deskrip": "Bakso kuah original dangan mie bihun dan tambahan pangsit dan aneka bakso tahu",
+    "price": 2000,
+    "rate": 5
+  },
+  {
+    "imageUrl": "https://cdn.yummy.co.id/content-images/images/20210503/WJCpUhNnV3WIsJI7VVqvlZsrfjDYeDBP-31363230303439393938d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_388,h_388,m_fixed,x-oss-process=image/format,webp",
+    "nameFood": "Es jeruk",
+    "deskrip": "Es jeruk dengan perasan jeruk asli dijamin segar",
+    "price": 5000,
+    "rate": 5
+  },
+  {
+    "imageUrl": "https://cdn.yummy.co.id/content-images/images/20220815/f6GOUIGVRkgrG2mDs57D02fKaXfvAJeV-31363630353334303031d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_388,h_388,m_fixed,x-oss-process=image/format,webp",
+    "nameFood": "Pizza Makaroni",
+    "deskrip": "Pizza makaroni ala Italia dengan saus BBQ, irisan daging, bawang bombai dan keju mozarella",
+    "price": 5000,
+    "rate": 5
+  }
+]
