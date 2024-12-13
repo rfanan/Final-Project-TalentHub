@@ -13,10 +13,9 @@ function App() {
   const [open, setOpen] = React.useState(false);
   const openDrawer = () => setOpen(true);
   const closeDrawer = () => setOpen(false);
-git 
   const [dataFood, setDataFood] = useState([]);
   async function getData() {
-    const url = "http://localhost:3000/Food";
+    const url = "https://flawless-universal-peony.glitch.me/Food";
     try {
       const response = await fetch(url);
       if (!response.ok) {
